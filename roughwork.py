@@ -1,0 +1,5 @@
+f=open("hello thenna.txt","r")
+data=f.readlines()
+print(data)
+print(data[1])
+print(type(data))
